@@ -105,7 +105,3 @@
 </div>
 
 <br>
-
-<div align="center">
-  <img src="https://github.com/puranikatharva/puranikatharva/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
