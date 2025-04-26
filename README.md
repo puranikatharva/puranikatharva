@@ -6,8 +6,7 @@
 
 <p align="center">
   <em>
-    Passionate Computer Science Engineer with expertise in developing innovative solutions across multiple domains. I love exploring emerging technologies 
-    and applying them to real-world challenges with a multidisciplinary approach.
+    Passionate Computer Science Engineer with expertise in developing innovative solutions across multiple domains. I love exploring and applying emerging technologies to real-world challenges with a multidisciplinary approach.
   </em>
 </p>
 
